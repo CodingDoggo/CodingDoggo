@@ -1,4 +1,4 @@
-###      Hi there everyone, welcome to my not so exciting profile! 👻😄
+### Hi there everyone, welcome to my not so exciting profile! 👻😄
 - 🔭 I’m currently working on getting better at coding as the days go by as i find it to be my passion.🌱
 - 👨🏻‍💻 Java, C, JavaScript, Python
 - ☕Tea is fun 
